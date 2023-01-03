@@ -1,0 +1,504 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &100100000
+Prefab:
+  m_ObjectHideFlags: 1
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications: []
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 0}
+  m_RootGameObject: {fileID: 1384672515662710}
+  m_IsPrefabParent: 1
+--- !u!1 &1384672515662710
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 5
+  m_Component:
+  - component: {fileID: 4873885949498754}
+  - component: {fileID: 114261314129608728}
+  m_Layer: 0
+  m_Name: SpawnController
+  m_TagString: SpawnController
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4873885949498754
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1384672515662710}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &114261314129608728
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1384672515662710}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2ab3c6c169278954c8528b5e265bbfb6, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  spawnTable:
+  - nome: box1
+    itemSpawn: {fileID: 1944051483885824, guid: bfca1ff445427584ca093cb3c37e1c43,
+      type: 2}
+    spawnTransform: {fileID: 0}
+    lastCheckPoint: 0
+    canSpawn: 1
+    destroyed: 1
+  - nome: box2
+    itemSpawn: {fileID: 1944051483885824, guid: bfca1ff445427584ca093cb3c37e1c43,
+      type: 2}
+    spawnTransform: {fileID: 0}
+    lastCheckPoint: 0
+    canSpawn: 1
+    destroyed: 1
+  - nome: box3
+    itemSpawn: {fileID: 1944051483885824, guid: bfca1ff445427584ca093cb3c37e1c43,
+      type: 2}
+    spawnTransform: {fileID: 0}
+    lastCheckPoint: 0
+    canSpawn: 1
+    destroyed: 1
+  - nome: box4
+    itemSpawn: {fileID: 1944051483885824, guid: bfca1ff445427584ca093cb3c37e1c43,
+      type: 2}
+    spawnTransform: {fileID: 0}
+    lastCheckPoint: 0
+    canSpawn: 1
+    destroyed: 1
+  - nome: box5
+    itemSpawn: {fileID: 1944051483885824, guid: bfca1ff445427584ca093cb3c37e1c43,
+      type: 2}
+    spawnTransform: {fileID: 0}
+    lastCheckPoint: 0
+    canSpawn: 1
+    destroyed: 1
+  - nome: box6
+    itemSpawn: {fileID: 1944051483885824, guid: bfca1ff445427584ca093cb3c37e1c43,
+      type: 2}
+    spawnTransform: {fileID: 0}
+    lastCheckPoint: 0
+    canSpawn: 1
+    destroyed: 1
+  - nome: box7
+    itemSpawn: {fileID: 1944051483885824, guid: bfca1ff445427584ca093cb3c37e1c43,
+      type: 2}
+    spawnTransform: {fileID: 0}
+    lastCheckPoint: 0
+    canSpawn: 1
+    destroyed: 1
+  - nome: box8
+    itemSpawn: {fileID: 1944051483885824, guid: bfca1ff445427584ca093cb3c37e1c43,
+      type: 2}
+    spawnTransform: {fileID: 0}
+    lastCheckPoint: 0
+    canSpawn: 1
+    destroyed: 1
+  - nome: box9
+    itemSpawn: {fileID: 1944051483885824, guid: bfca1ff445427584ca093cb3c37e1c43,
+      type: 2}
+    spawnTransform: {fileID: 0}
+    lastCheckPoint: 0
+    canSpawn: 1
+    destroyed: 1
+  - nome: box10
+    itemSpawn: {fileID: 1944051483885824, guid: bfca1ff445427584ca093cb3c37e1c43,
+      type: 2}
+    spawnTransform: {fileID: 0}
+    lastCheckPoint: 0
+    canSpawn: 1
+    destroyed: 1
+  - nome: box11
+    itemSpawn: {fileID: 1944051483885824, guid: bfca1ff445427584ca093cb3c37e1c43,
+      type: 2}
+    spawnTransform: {fileID: 0}
+    lastCheckPoint: 0
+    canSpawn: 1
+    destroyed: 1
+  - nome: box12
+    itemSpawn: {fileID: 1944051483885824, guid: bfca1ff445427584ca093cb3c37e1c43,
+      type: 2}
+    spawnTransform: {fileID: 0}
+    lastCheckPoint: 0
+    canSpawn: 1
+    destroyed: 1
+  - nome: box13
+    itemSpawn: {fileID: 1944051483885824, guid: bfca1ff445427584ca093cb3c37e1c43,
+      type: 2}
+    spawnTransform: {fileID: 0}
+    lastCheckPoint: 0
+    canSpawn: 1
+    destroyed: 1
+  - nome: box14
+    itemSpawn: {fileID: 1944051483885824, guid: bfca1ff445427584ca093cb3c37e1c43,
+      type: 2}
+    spawnTransform: {fileID: 0}
+    lastCheckPoint: 0
+    canSpawn: 1
+    destroyed: 1
+  - nome: box15
+    itemSpawn: {fileID: 1944051483885824, guid: bfca1ff445427584ca093cb3c37e1c43,
+      type: 2}
+    spawnTransform: {fileID: 0}
+    lastCheckPoint: 0
+    canSpawn: 1
+    destroyed: 1
+  - nome: box16
+    itemSpawn: {fileID: 1944051483885824, guid: bfca1ff445427584ca093cb3c37e1c43,
+      type: 2}
+    spawnTransform: {fileID: 0}
+    lastCheckPoint: 0
+    canSpawn: 1
+    destroyed: 1
+  - nome: box17
+    itemSpawn: {fileID: 1944051483885824, guid: bfca1ff445427584ca093cb3c37e1c43,
+      type: 2}
+    spawnTransform: {fileID: 0}
+    lastCheckPoint: 0
+    canSpawn: 1
+    destroyed: 1
+  - nome: box18
+    itemSpawn: {fileID: 1944051483885824, guid: bfca1ff445427584ca093cb3c37e1c43,
+      type: 2}
+    spawnTransform: {fileID: 0}
+    lastCheckPoint: 0
+    canSpawn: 1
+    destroyed: 1
+  - nome: box19
+    itemSpawn: {fileID: 1944051483885824, guid: bfca1ff445427584ca093cb3c37e1c43,
+      type: 2}
+    spawnTransform: {fileID: 0}
+    lastCheckPoint: 0
+    canSpawn: 1
+    destroyed: 1
+  - nome: box20
+    itemSpawn: {fileID: 1944051483885824, guid: bfca1ff445427584ca093cb3c37e1c43,
+      type: 2}
+    spawnTransform: {fileID: 0}
+    lastCheckPoint: 0
+    canSpawn: 1
+    destroyed: 1
+  - nome: box21
+    itemSpawn: {fileID: 1944051483885824, guid: bfca1ff445427584ca093cb3c37e1c43,
+      type: 2}
+    spawnTransform: {fileID: 0}
+    lastCheckPoint: 0
+    canSpawn: 1
+    destroyed: 1
+  - nome: box22
+    itemSpawn: {fileID: 1944051483885824, guid: bfca1ff445427584ca093cb3c37e1c43,
+      type: 2}
+    spawnTransform: {fileID: 0}
+    lastCheckPoint: 0
+    canSpawn: 1
+    destroyed: 1
+  - nome: box23
+    itemSpawn: {fileID: 1944051483885824, guid: bfca1ff445427584ca093cb3c37e1c43,
+      type: 2}
+    spawnTransform: {fileID: 0}
+    lastCheckPoint: 0
+    canSpawn: 1
+    destroyed: 1
+  - nome: box24
+    itemSpawn: {fileID: 1944051483885824, guid: bfca1ff445427584ca093cb3c37e1c43,
+      type: 2}
+    spawnTransform: {fileID: 0}
+    lastCheckPoint: 0
+    canSpawn: 1
+    destroyed: 1
+  - nome: box25
+    itemSpawn: {fileID: 1944051483885824, guid: bfca1ff445427584ca093cb3c37e1c43,
+      type: 2}
+    spawnTransform: {fileID: 0}
+    lastCheckPoint: 0
+    canSpawn: 1
+    destroyed: 1
+  - nome: box26
+    itemSpawn: {fileID: 1944051483885824, guid: bfca1ff445427584ca093cb3c37e1c43,
+      type: 2}
+    spawnTransform: {fileID: 0}
+    lastCheckPoint: 0
+    canSpawn: 1
+    destroyed: 1
+  - nome: box27
+    itemSpawn: {fileID: 1944051483885824, guid: bfca1ff445427584ca093cb3c37e1c43,
+      type: 2}
+    spawnTransform: {fileID: 0}
+    lastCheckPoint: 0
+    canSpawn: 1
+    destroyed: 1
+  - nome: box28
+    itemSpawn: {fileID: 1944051483885824, guid: bfca1ff445427584ca093cb3c37e1c43,
+      type: 2}
+    spawnTransform: {fileID: 0}
+    lastCheckPoint: 0
+    canSpawn: 1
+    destroyed: 1
+  - nome: box29
+    itemSpawn: {fileID: 1944051483885824, guid: bfca1ff445427584ca093cb3c37e1c43,
+      type: 2}
+    spawnTransform: {fileID: 0}
+    lastCheckPoint: 0
+    canSpawn: 1
+    destroyed: 1
+  - nome: box30
+    itemSpawn: {fileID: 1944051483885824, guid: bfca1ff445427584ca093cb3c37e1c43,
+      type: 2}
+    spawnTransform: {fileID: 0}
+    lastCheckPoint: 0
+    canSpawn: 1
+    destroyed: 1
+  - nome: box31
+    itemSpawn: {fileID: 1944051483885824, guid: bfca1ff445427584ca093cb3c37e1c43,
+      type: 2}
+    spawnTransform: {fileID: 0}
+    lastCheckPoint: 0
+    canSpawn: 1
+    destroyed: 1
+  - nome: box32
+    itemSpawn: {fileID: 1944051483885824, guid: bfca1ff445427584ca093cb3c37e1c43,
+      type: 2}
+    spawnTransform: {fileID: 0}
+    lastCheckPoint: 0
+    canSpawn: 1
+    destroyed: 1
+  - nome: box33
+    itemSpawn: {fileID: 1944051483885824, guid: bfca1ff445427584ca093cb3c37e1c43,
+      type: 2}
+    spawnTransform: {fileID: 0}
+    lastCheckPoint: 0
+    canSpawn: 1
+    destroyed: 1
+  - nome: box34
+    itemSpawn: {fileID: 1944051483885824, guid: bfca1ff445427584ca093cb3c37e1c43,
+      type: 2}
+    spawnTransform: {fileID: 0}
+    lastCheckPoint: 0
+    canSpawn: 1
+    destroyed: 1
+  - nome: box35
+    itemSpawn: {fileID: 1944051483885824, guid: bfca1ff445427584ca093cb3c37e1c43,
+      type: 2}
+    spawnTransform: {fileID: 0}
+    lastCheckPoint: 0
+    canSpawn: 1
+    destroyed: 1
+  - nome: box36
+    itemSpawn: {fileID: 1944051483885824, guid: bfca1ff445427584ca093cb3c37e1c43,
+      type: 2}
+    spawnTransform: {fileID: 0}
+    lastCheckPoint: 0
+    canSpawn: 1
+    destroyed: 1
+  - nome: box37
+    itemSpawn: {fileID: 1944051483885824, guid: bfca1ff445427584ca093cb3c37e1c43,
+      type: 2}
+    spawnTransform: {fileID: 0}
+    lastCheckPoint: 0
+    canSpawn: 1
+    destroyed: 1
+  - nome: box38
+    itemSpawn: {fileID: 1944051483885824, guid: bfca1ff445427584ca093cb3c37e1c43,
+      type: 2}
+    spawnTransform: {fileID: 0}
+    lastCheckPoint: 0
+    canSpawn: 1
+    destroyed: 1
+  enemySpawnTable:
+  - nome: enemy1
+    monsterSpawn: {fileID: 1824050558730604, guid: 2d7fd0db5e8d2bd4da68dc67bf701d62,
+      type: 2}
+    spawnTransform: {fileID: 0}
+    lastCheckPoint: 0
+    canSpawn: 1
+    died: 1
+    direcao: 1
+    timeToChange: 1.6
+  - nome: enemy2
+    monsterSpawn: {fileID: 1824050558730604, guid: 2d7fd0db5e8d2bd4da68dc67bf701d62,
+      type: 2}
+    spawnTransform: {fileID: 0}
+    lastCheckPoint: 0
+    canSpawn: 1
+    died: 1
+    direcao: 1
+    timeToChange: 2.5
+  - nome: enemy3
+    monsterSpawn: {fileID: 1824050558730604, guid: 2d7fd0db5e8d2bd4da68dc67bf701d62,
+      type: 2}
+    spawnTransform: {fileID: 0}
+    lastCheckPoint: 0
+    canSpawn: 1
+    died: 1
+    direcao: -1
+    timeToChange: 2.5
+  - nome: enemy4
+    monsterSpawn: {fileID: 1824050558730604, guid: 2d7fd0db5e8d2bd4da68dc67bf701d62,
+      type: 2}
+    spawnTransform: {fileID: 0}
+    lastCheckPoint: 0
+    canSpawn: 1
+    died: 1
+    direcao: -1
+    timeToChange: 1.5
+  - nome: enemy5
+    monsterSpawn: {fileID: 1824050558730604, guid: 2d7fd0db5e8d2bd4da68dc67bf701d62,
+      type: 2}
+    spawnTransform: {fileID: 0}
+    lastCheckPoint: 0
+    canSpawn: 1
+    died: 1
+    direcao: -1
+    timeToChange: 2
+  - nome: enemy6
+    monsterSpawn: {fileID: 1824050558730604, guid: 2d7fd0db5e8d2bd4da68dc67bf701d62,
+      type: 2}
+    spawnTransform: {fileID: 0}
+    lastCheckPoint: 0
+    canSpawn: 1
+    died: 1
+    direcao: 1
+    timeToChange: 2
+  - nome: enemy7
+    monsterSpawn: {fileID: 1824050558730604, guid: 2d7fd0db5e8d2bd4da68dc67bf701d62,
+      type: 2}
+    spawnTransform: {fileID: 0}
+    lastCheckPoint: 0
+    canSpawn: 1
+    died: 1
+    direcao: 1
+    timeToChange: 2
+  - nome: enemy8
+    monsterSpawn: {fileID: 1824050558730604, guid: 2d7fd0db5e8d2bd4da68dc67bf701d62,
+      type: 2}
+    spawnTransform: {fileID: 0}
+    lastCheckPoint: 0
+    canSpawn: 1
+    died: 1
+    direcao: -1
+    timeToChange: 1.85
+  - nome: enemy9
+    monsterSpawn: {fileID: 1824050558730604, guid: 2d7fd0db5e8d2bd4da68dc67bf701d62,
+      type: 2}
+    spawnTransform: {fileID: 0}
+    lastCheckPoint: 0
+    canSpawn: 1
+    died: 1
+    direcao: -1
+    timeToChange: 4.8
+  - nome: enemy10
+    monsterSpawn: {fileID: 1824050558730604, guid: 2d7fd0db5e8d2bd4da68dc67bf701d62,
+      type: 2}
+    spawnTransform: {fileID: 0}
+    lastCheckPoint: 0
+    canSpawn: 1
+    died: 1
+    direcao: 1
+    timeToChange: 1.5
+  - nome: enemy11
+    monsterSpawn: {fileID: 1824050558730604, guid: 2d7fd0db5e8d2bd4da68dc67bf701d62,
+      type: 2}
+    spawnTransform: {fileID: 0}
+    lastCheckPoint: 0
+    canSpawn: 1
+    died: 1
+    direcao: -1
+    timeToChange: 1.5
+  - nome: enemy12
+    monsterSpawn: {fileID: 1824050558730604, guid: 2d7fd0db5e8d2bd4da68dc67bf701d62,
+      type: 2}
+    spawnTransform: {fileID: 0}
+    lastCheckPoint: 0
+    canSpawn: 1
+    died: 1
+    direcao: -1
+    timeToChange: 2.7
+  - nome: enemy13
+    monsterSpawn: {fileID: 1824050558730604, guid: 2d7fd0db5e8d2bd4da68dc67bf701d62,
+      type: 2}
+    spawnTransform: {fileID: 0}
+    lastCheckPoint: 0
+    canSpawn: 1
+    died: 1
+    direcao: -1
+    timeToChange: 1.5
+  - nome: enemy14
+    monsterSpawn: {fileID: 1824050558730604, guid: 2d7fd0db5e8d2bd4da68dc67bf701d62,
+      type: 2}
+    spawnTransform: {fileID: 0}
+    lastCheckPoint: 0
+    canSpawn: 1
+    died: 1
+    direcao: -1
+    timeToChange: 2.1
+  - nome: enemy15
+    monsterSpawn: {fileID: 1824050558730604, guid: 2d7fd0db5e8d2bd4da68dc67bf701d62,
+      type: 2}
+    spawnTransform: {fileID: 0}
+    lastCheckPoint: 0
+    canSpawn: 1
+    died: 1
+    direcao: -1
+    timeToChange: 2.3
+  - nome: enemy16
+    monsterSpawn: {fileID: 1824050558730604, guid: 2d7fd0db5e8d2bd4da68dc67bf701d62,
+      type: 2}
+    spawnTransform: {fileID: 0}
+    lastCheckPoint: 0
+    canSpawn: 1
+    died: 1
+    direcao: 1
+    timeToChange: 2.1
+  - nome: enemy17
+    monsterSpawn: {fileID: 1824050558730604, guid: 2d7fd0db5e8d2bd4da68dc67bf701d62,
+      type: 2}
+    spawnTransform: {fileID: 0}
+    lastCheckPoint: 0
+    canSpawn: 1
+    died: 1
+    direcao: 1
+    timeToChange: 2.4
+  - nome: enemy18
+    monsterSpawn: {fileID: 1824050558730604, guid: 2d7fd0db5e8d2bd4da68dc67bf701d62,
+      type: 2}
+    spawnTransform: {fileID: 0}
+    lastCheckPoint: 0
+    canSpawn: 1
+    died: 1
+    direcao: -1
+    timeToChange: 6.7
+  - nome: enemy19
+    monsterSpawn: {fileID: 1824050558730604, guid: 2d7fd0db5e8d2bd4da68dc67bf701d62,
+      type: 2}
+    spawnTransform: {fileID: 0}
+    lastCheckPoint: 0
+    canSpawn: 1
+    died: 1
+    direcao: -1
+    timeToChange: 2
+  - nome: enemy20
+    monsterSpawn: {fileID: 1824050558730604, guid: 2d7fd0db5e8d2bd4da68dc67bf701d62,
+      type: 2}
+    spawnTransform: {fileID: 0}
+    lastCheckPoint: 0
+    canSpawn: 1
+    died: 1
+    direcao: 1
+    timeToChange: 2
+  gameController: {fileID: 0}
+  enemyBehaviour: {fileID: 114545700957086286, guid: 2d7fd0db5e8d2bd4da68dc67bf701d62,
+    type: 2}

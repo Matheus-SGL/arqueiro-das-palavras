@@ -1,0 +1,537 @@
+fileFormatVersion: 2
+guid: b47c7f5550a698548afd67ec2fcbb4a5
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: spritesheethurt_0
+    21300002: spritesheethurt_1
+    21300004: spritesheethurt_2
+    21300006: spritesheethurt_3
+    21300008: spritesheethurt_4
+    21300010: spritesheethurt_5
+    21300012: spritesheethurt_6
+    21300014: spritesheethurt_7
+    21300016: spritesheethurt_8
+    21300018: spritesheethurt_9
+    21300020: spritesheethurt_10
+    21300022: spritesheethurt_11
+    21300024: spritesheethurt_12
+    21300026: spritesheethurt_13
+    21300028: spritesheethurt_14
+    21300030: spritesheethurt_15
+    21300032: spritesheethurt_16
+    21300034: spritesheethurt_17
+    21300036: spritesheethurt_18
+    21300038: spritesheethurt_19
+    21300040: spritesheethurt_20
+    21300042: elfhurt_0
+    21300044: elfhurt_1
+    21300046: elfhurt_2
+    21300048: elfhurt_3
+    21300050: elfhurt_4
+    21300052: elfhurt_5
+    21300054: elfhurt_6
+    21300056: elfhurt_7
+    21300058: elfhurt_8
+    21300060: elfhurt_9
+    21300062: elfhurt_10
+    21300064: elfhurt_11
+    21300066: elfhurt_12
+    21300068: elfhurt_13
+    21300070: elfhurt_14
+    21300072: elfhurt_15
+    21300074: elfhurt_16
+    21300076: elfhurt_17
+    21300078: elfhurt_18
+    21300080: elfhurt_19
+    21300082: elfhurt_20
+  externalObjects: {}
+  serializedVersion: 5
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: elfhurt_0
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 3428
+        width: 856
+        height: 1023
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09651ed7255da724d95957e00baace57
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elfhurt_1
+      rect:
+        serializedVersion: 2
+        x: 1321
+        y: 3428
+        width: 873
+        height: 1013
+      alignment: 9
+      pivot: {x: 0.51, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4908cb02036e6ee429017dc2f136fb33
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elfhurt_2
+      rect:
+        serializedVersion: 2
+        x: 2437
+        y: 3425
+        width: 887
+        height: 1003
+      alignment: 9
+      pivot: {x: 0.515, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a395d114fb60c9748abcc1209d71f50a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elfhurt_3
+      rect:
+        serializedVersion: 2
+        x: 3550
+        y: 3425
+        width: 900
+        height: 990
+      alignment: 9
+      pivot: {x: 0.52, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc32ddee82838924293d9cade3fcd5fe
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elfhurt_4
+      rect:
+        serializedVersion: 2
+        x: 4666
+        y: 3424
+        width: 907
+        height: 987
+      alignment: 9
+      pivot: {x: 0.525, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 233ec9be380d46c40b4635a8676b3359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elfhurt_5
+      rect:
+        serializedVersion: 2
+        x: 5782
+        y: 3421
+        width: 911
+        height: 990
+      alignment: 9
+      pivot: {x: 0.53, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84c771e328d36874db5d453223b07797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elfhurt_6
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 2285
+        width: 910
+        height: 990
+      alignment: 9
+      pivot: {x: 0.535, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c85bce8c6ee6f64e996105c5760f06d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elfhurt_7
+      rect:
+        serializedVersion: 2
+        x: 1212
+        y: 2285
+        width: 906
+        height: 990
+      alignment: 9
+      pivot: {x: 0.54, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80a74144ec9321b4d85c4d83e6ce8bdc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elfhurt_8
+      rect:
+        serializedVersion: 2
+        x: 2331
+        y: 2281
+        width: 900
+        height: 997
+      alignment: 9
+      pivot: {x: 0.548, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16c70ad23f42b184c9d87c03c69d37be
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elfhurt_9
+      rect:
+        serializedVersion: 2
+        x: 3450
+        y: 2278
+        width: 887
+        height: 1000
+      alignment: 9
+      pivot: {x: 0.55, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97442e27bf318e64dabbbc4f72b77dc7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elfhurt_10
+      rect:
+        serializedVersion: 2
+        x: 4600
+        y: 2281
+        width: 897
+        height: 997
+      alignment: 9
+      pivot: {x: 0.548, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86bd5da38211258489bd1cfc47d3b211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elfhurt_11
+      rect:
+        serializedVersion: 2
+        x: 5749
+        y: 2285
+        width: 907
+        height: 990
+      alignment: 9
+      pivot: {x: 0.54, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fd99068228aaa04daff929cd9002138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elfhurt_12
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 1151
+        width: 910
+        height: 991
+      alignment: 9
+      pivot: {x: 0.535, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff48ad5035b150b428554ad53784422b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elfhurt_13
+      rect:
+        serializedVersion: 2
+        x: 1248
+        y: 1155
+        width: 909
+        height: 990
+      alignment: 9
+      pivot: {x: 0.53, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c5b5b55ef8ae2f45bccdd882af1e8ae
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elfhurt_14
+      rect:
+        serializedVersion: 2
+        x: 2399
+        y: 1155
+        width: 905
+        height: 990
+      alignment: 9
+      pivot: {x: 0.525, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1aaaca663244c7a4e950318866c58c79
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elfhurt_15
+      rect:
+        serializedVersion: 2
+        x: 3550
+        y: 1158
+        width: 900
+        height: 990
+      alignment: 9
+      pivot: {x: 0.52, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdd4e4c21bc689540bad37cd6845d758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elfhurt_16
+      rect:
+        serializedVersion: 2
+        x: 4703
+        y: 1158
+        width: 890
+        height: 1003
+      alignment: 9
+      pivot: {x: 0.515, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a8d3368fe5718c4fb1756a8f715bb65
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elfhurt_17
+      rect:
+        serializedVersion: 2
+        x: 5857
+        y: 1158
+        width: 875
+        height: 1014
+      alignment: 9
+      pivot: {x: 0.51, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89ced63a4e381584687752020e27b106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elfhurt_18
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 28
+        width: 856
+        height: 1020
+      alignment: 9
+      pivot: {x: 0.505, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3027726fa160eef4c86ad89223780d24
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elfhurt_20
+      rect:
+        serializedVersion: 2
+        x: 2477
+        y: 28
+        width: 854
+        height: 1020
+      alignment: 9
+      pivot: {x: 0.505, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00abc5adc16a1314690bc6d4417a9376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 09519e79dc2aad24cbc2e4ba20509063
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

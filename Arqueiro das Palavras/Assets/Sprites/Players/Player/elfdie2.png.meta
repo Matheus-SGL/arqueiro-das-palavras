@@ -1,0 +1,746 @@
+fileFormatVersion: 2
+guid: d8eb9c4434e5f604a88f9f037bbb199b
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: elfdie2_0
+    21300002: elfdie2_1
+    21300004: elfdie2_2
+    21300006: elfdie2_3
+    21300008: elfdie2_4
+    21300010: elfdie2_5
+    21300012: elfdie2_6
+    21300014: elfdie2_7
+    21300016: elfdie2_8
+    21300018: elfdie2_9
+    21300020: elfdie2_10
+    21300022: elfdie2_11
+    21300024: elfdie2_12
+    21300026: elfdie2_13
+    21300028: elfdie2_14
+    21300030: elfdie2_15
+    21300032: elfdie2_16
+    21300034: elfdie2_17
+    21300036: elfdie2_18
+    21300038: elfdie2_19
+    21300040: elfdie2_20
+    21300042: elfdie2_21
+    21300044: elfdie2_22
+    21300046: elfdie2_23
+    21300048: elfdie2_24
+    21300050: elfdie2_25
+    21300052: elfdie2_26
+    21300054: elfdie2_27
+    21300056: elfdie2_28
+    21300058: elfdie2_29
+    21300060: elfdie2_30
+  externalObjects: {}
+  serializedVersion: 5
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: elfdie2_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4159
+        width: 863
+        height: 1045
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5db597db067e76a4396fa5a9dec5fc64
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elfdie2_1
+      rect:
+        serializedVersion: 2
+        x: 1311
+        y: 4135
+        width: 858
+        height: 1035
+      alignment: 9
+      pivot: {x: 0.475, y: 0.007}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b164b0cd1fc8394198cf5321a7d5b8b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elfdie2_2
+      rect:
+        serializedVersion: 2
+        x: 2620
+        y: 4097
+        width: 862
+        height: 1052
+      alignment: 9
+      pivot: {x: 0.46, y: 0.023}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a92ac69d7f671294ca4e00fe63ba0999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elfdie2_3
+      rect:
+        serializedVersion: 2
+        x: 3931
+        y: 4075
+        width: 850
+        height: 1049
+      alignment: 9
+      pivot: {x: 0.44, y: 0.028}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0baf21be18391de40a3660f9275bf40d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elfdie2_4
+      rect:
+        serializedVersion: 2
+        x: 5242
+        y: 4056
+        width: 844
+        height: 1042
+      alignment: 9
+      pivot: {x: 0.42, y: 0.03}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac6e57db5c4494a4ea2bca1bfacb6b67
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elfdie2_5
+      rect:
+        serializedVersion: 2
+        x: 6555
+        y: 4048
+        width: 837
+        height: 1032
+      alignment: 9
+      pivot: {x: 0.4, y: 0.032}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 530f71353239bac409e7d2a6854d0091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elfdie2_6
+      rect:
+        serializedVersion: 2
+        x: 7922
+        y: 4056
+        width: 837
+        height: 1022
+      alignment: 9
+      pivot: {x: 0.32, y: 0.033}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a134f0db682d7e438e8b93644954f1e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elfdie2_7
+      rect:
+        serializedVersion: 2
+        x: 9226
+        y: 4075
+        width: 813
+        height: 1005
+      alignment: 9
+      pivot: {x: 0.32, y: 0.036}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dd9fce6f073a89408769188c1a7e117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elfdie2_8
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 2785
+        width: 788
+        height: 985
+      alignment: 9
+      pivot: {x: 0.3, y: 0.037}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 683a979dcbad1694a9517ccabf691fc6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elfdie2_9
+      rect:
+        serializedVersion: 2
+        x: 1401
+        y: 2807
+        width: 751
+        height: 949
+      alignment: 9
+      pivot: {x: 0.28, y: 0.038}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8887e5108a6e584bb45a32632397f9e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elfdie2_10
+      rect:
+        serializedVersion: 2
+        x: 2723
+        y: 2829
+        width: 747
+        height: 922
+      alignment: 9
+      pivot: {x: 0.26, y: 0.04}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef9c82aadbfe6f245b389b84934558f6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elfdie2_11
+      rect:
+        serializedVersion: 2
+        x: 4048
+        y: 2825
+        width: 794
+        height: 925
+      alignment: 9
+      pivot: {x: 0.24, y: 0.042}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 270e5b72165825541b91d2f6f9375c0a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elfdie2_12
+      rect:
+        serializedVersion: 2
+        x: 5367
+        y: 2820
+        width: 837
+        height: 916
+      alignment: 9
+      pivot: {x: 0.22, y: 0.044}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0abdbb1c817820f4a90f711f62849c03
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elfdie2_13
+      rect:
+        serializedVersion: 2
+        x: 6686
+        y: 2805
+        width: 875
+        height: 923
+      alignment: 9
+      pivot: {x: 0.2, y: 0.052}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2c2ada29a8c6a6409f7c340b5ad6af4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elfdie2_14
+      rect:
+        serializedVersion: 2
+        x: 8007
+        y: 2799
+        width: 901
+        height: 896
+      alignment: 9
+      pivot: {x: 0.18, y: 0.05}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af1d49f088e7f434ea650130ba15cd8a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elfdie2_15
+      rect:
+        serializedVersion: 2
+        x: 9321
+        y: 2785
+        width: 929
+        height: 874
+      alignment: 9
+      pivot: {x: 0.18, y: 0.06}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a739a219fe057c49855f62767a676c9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elfdie2_16
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 1467
+        width: 947
+        height: 849
+      alignment: 9
+      pivot: {x: 0.16, y: 0.068}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9162c68f4cac82c458af35cbf1c94d4b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elfdie2_17
+      rect:
+        serializedVersion: 2
+        x: 1475
+        y: 1442
+        width: 970
+        height: 860
+      alignment: 9
+      pivot: {x: 0.16, y: 0.095}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4b549b756e67cb4eb17257d07b1487b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elfdie2_18
+      rect:
+        serializedVersion: 2
+        x: 2807
+        y: 1412
+        width: 975
+        height: 869
+      alignment: 9
+      pivot: {x: 0.14, y: 0.13}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f035473470ee694691520de3e6468e1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elfdie2_19
+      rect:
+        serializedVersion: 2
+        x: 4130
+        y: 1390
+        width: 991
+        height: 866
+      alignment: 9
+      pivot: {x: 0.12, y: 0.16}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d3c4eae51231a94f8d4a8214cf03972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elfdie2_20
+      rect:
+        serializedVersion: 2
+        x: 5449
+        y: 1365
+        width: 991
+        height: 868
+      alignment: 9
+      pivot: {x: 0.1, y: 0.19}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28db16e2671253c498de03b3fcaeb52e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elfdie2_21
+      rect:
+        serializedVersion: 2
+        x: 6768
+        y: 1365
+        width: 983
+        height: 869
+      alignment: 9
+      pivot: {x: 0.1, y: 0.19}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c84a143de7ef25f48b20ea64700437cb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elfdie2_22
+      rect:
+        serializedVersion: 2
+        x: 8079
+        y: 1365
+        width: 983
+        height: 860
+      alignment: 9
+      pivot: {x: 0.1, y: 0.19}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60c83a86cc5eae24a88dfa593039f196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elfdie2_23
+      rect:
+        serializedVersion: 2
+        x: 9390
+        y: 1376
+        width: 983
+        height: 860
+      alignment: 9
+      pivot: {x: 0.1, y: 0.18}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 736580de0277b01409fd564edb439523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elfdie2_24
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 54
+        width: 983
+        height: 855
+      alignment: 9
+      pivot: {x: 0.1, y: 0.19}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 941eabeb5131abb4098656196c009105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elfdie2_25
+      rect:
+        serializedVersion: 2
+        x: 1516
+        y: 54
+        width: 989
+        height: 853
+      alignment: 9
+      pivot: {x: 0.105, y: 0.19}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bd2550fa363583438b4b0f326a77cbb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elfdie2_26
+      rect:
+        serializedVersion: 2
+        x: 2840
+        y: 54
+        width: 973
+        height: 853
+      alignment: 9
+      pivot: {x: 0.1, y: 0.19}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92c83a806a4629a4a99d2652a01b787f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elfdie2_27
+      rect:
+        serializedVersion: 2
+        x: 4151
+        y: 54
+        width: 973
+        height: 853
+      alignment: 9
+      pivot: {x: 0.1, y: 0.19}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b02b4254f1e9314498ac1ff4e2b566d8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elfdie2_28
+      rect:
+        serializedVersion: 2
+        x: 5462
+        y: 54
+        width: 970
+        height: 853
+      alignment: 9
+      pivot: {x: 0.1, y: 0.19}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13de54a972ea73348bff4dbf19e6b782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elfdie2_29
+      rect:
+        serializedVersion: 2
+        x: 6773
+        y: 54
+        width: 972
+        height: 853
+      alignment: 9
+      pivot: {x: 0.1, y: 0.19}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2084c3f48df6694da4819cd13f1b832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elfdie2_30
+      rect:
+        serializedVersion: 2
+        x: 8084
+        y: 54
+        width: 973
+        height: 853
+      alignment: 9
+      pivot: {x: 0.1, y: 0.19}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97993809e4ee28c40a7680bb040a5c64
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: f13c91b662d1f3b41a9214cd6d48b4c1
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

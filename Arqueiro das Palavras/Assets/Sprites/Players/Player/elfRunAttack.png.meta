@@ -1,0 +1,788 @@
+fileFormatVersion: 2
+guid: 161d08223aab94043abfe034afd56f3c
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: elfRunAttack_0
+    21300002: elfRunAttack_1
+    21300004: elfRunAttack_2
+    21300006: elfRunAttack_3
+    21300008: elfRunAttack_4
+    21300010: elfRunAttack_5
+    21300012: elfRunAttack_6
+    21300014: elfRunAttack_7
+    21300016: elfRunAttack_8
+    21300018: elfRunAttack_9
+    21300020: elfRunAttack_10
+    21300022: elfRunAttack_11
+    21300024: elfRunAttack_12
+    21300026: elfRunAttack_13
+    21300028: elfRunAttack_14
+    21300030: elfRunAttack_15
+    21300032: elfRunAttack_16
+    21300034: elfRunAttack_17
+    21300036: elfRunAttack_18
+    21300038: elfRunAttack_19
+    21300040: elfRunAttack_20
+    21300042: elfRunAttack_21
+    21300044: elfRunAttack_22
+    21300046: elfRunAttack_23
+    21300048: elfRunAttack_24
+    21300050: elfRunAttack_25
+    21300052: elfRunAttack_26
+    21300054: elfRunAttack_27
+    21300056: elfRunAttack_28
+    21300058: elfRunAttack_29
+    21300060: elfRunAttack_30
+    21300062: elfRunAttack_31
+    21300064: elfRunAttack_32
+  externalObjects: {}
+  serializedVersion: 5
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: elfRunAttack_0
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 5271
+        width: 871
+        height: 1026
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40b61060c286aec46af05f1f48336bb1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elfRunAttack_1
+      rect:
+        serializedVersion: 2
+        x: 1499
+        y: 5271
+        width: 865
+        height: 1030
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c555c683806f904986d35b0ab1823cd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elfRunAttack_2
+      rect:
+        serializedVersion: 2
+        x: 2807
+        y: 5271
+        width: 865
+        height: 1031
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 000f9aa789c7b7749ae510de5b639ed3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elfRunAttack_3
+      rect:
+        serializedVersion: 2
+        x: 4120
+        y: 5265
+        width: 856
+        height: 1037
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f9019bd5b64fc04cbf2326213c397d8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elfRunAttack_4
+      rect:
+        serializedVersion: 2
+        x: 5429
+        y: 5258
+        width: 855
+        height: 1048
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6c54265baa9a5b4b8dfe968829da582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elfRunAttack_5
+      rect:
+        serializedVersion: 2
+        x: 6742
+        y: 5253
+        width: 846
+        height: 1053
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b73aea82348ed943bd5b99dea8fedcf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elfRunAttack_6
+      rect:
+        serializedVersion: 2
+        x: 8055
+        y: 5258
+        width: 842
+        height: 1048
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd2a364f12fa06144801eda133b78391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elfRunAttack_7
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 3963
+        width: 838
+        height: 1035
+      alignment: 9
+      pivot: {x: 0.5, y: -0.01}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3c6ad61849f0cc409b95a765e7cc769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elfRunAttack_8
+      rect:
+        serializedVersion: 2
+        x: 1499
+        y: 3986
+        width: 829
+        height: 1012
+      alignment: 9
+      pivot: {x: 0.5, y: -0.025}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c717189eca92974c8250b983d97f1bf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elfRunAttack_9
+      rect:
+        serializedVersion: 2
+        x: 2812
+        y: 3963
+        width: 833
+        height: 1035
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bf5f9064d863f349b1d81e997001530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elfRunAttack_10
+      rect:
+        serializedVersion: 2
+        x: 4120
+        y: 3946
+        width: 838
+        height: 1052
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 574087e08b15a5140a804ad1b9393af3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elfRunAttack_11
+      rect:
+        serializedVersion: 2
+        x: 5429
+        y: 3941
+        width: 845
+        height: 1053
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5644820268c0a474a8b3cfc9851d485b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elfRunAttack_12
+      rect:
+        serializedVersion: 2
+        x: 6742
+        y: 3946
+        width: 846
+        height: 1047
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2aea3f91f03179d4eb1e713fea16ae3d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elfRunAttack_13
+      rect:
+        serializedVersion: 2
+        x: 8050
+        y: 3954
+        width: 851
+        height: 1039
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed91a605c75d2404aa50009e27820b4d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elfRunAttack_14
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 2650
+        width: 851
+        height: 1031
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2a1faf4370ffe04aacdc9eb7ec042d2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elfRunAttack_15
+      rect:
+        serializedVersion: 2
+        x: 1499
+        y: 2650
+        width: 851
+        height: 1026
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5398d19da5c110478937d17a8b2ef95
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elfRunAttack_16
+      rect:
+        serializedVersion: 2
+        x: 2808
+        y: 2650
+        width: 855
+        height: 1026
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c51797ac244c8ce4a9918256540c6247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elfRunAttack_17
+      rect:
+        serializedVersion: 2
+        x: 4120
+        y: 2650
+        width: 852
+        height: 1026
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf23d9d6069ed72438f27dbe6c95b4db
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elfRunAttack_18
+      rect:
+        serializedVersion: 2
+        x: 5429
+        y: 2650
+        width: 851
+        height: 1031
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f752909bd79f9649a2623f6fe3ca1a2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elfRunAttack_19
+      rect:
+        serializedVersion: 2
+        x: 6742
+        y: 2641
+        width: 846
+        height: 1040
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db7304066fda36043a49cd11e5945ab4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elfRunAttack_20
+      rect:
+        serializedVersion: 2
+        x: 8051
+        y: 2637
+        width: 846
+        height: 1048
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c50974b3b760a54eb19c1dff78c6b72
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elfRunAttack_21
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 1320
+        width: 841
+        height: 1054
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48e8cad06bbf8244db9d972408cb0e25
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elfRunAttack_22
+      rect:
+        serializedVersion: 2
+        x: 1499
+        y: 1324
+        width: 833
+        height: 1053
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4db77e2ab1cee904d8d2c583071a5416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elfRunAttack_23
+      rect:
+        serializedVersion: 2
+        x: 2812
+        y: 1342
+        width: 829
+        height: 1035
+      alignment: 9
+      pivot: {x: 0.5, y: -0.01}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa9dba23924fc0542a838c6f8a23217c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elfRunAttack_24
+      rect:
+        serializedVersion: 2
+        x: 4120
+        y: 1364
+        width: 825
+        height: 1013
+      alignment: 9
+      pivot: {x: 0.5, y: -0.025}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a08995fbb388d3b49842e16b672d217a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elfRunAttack_25
+      rect:
+        serializedVersion: 2
+        x: 5433
+        y: 1342
+        width: 829
+        height: 1035
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5e028bfaf8e421448db65e0064c1eb7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elfRunAttack_26
+      rect:
+        serializedVersion: 2
+        x: 6742
+        y: 1324
+        width: 841
+        height: 1053
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b2ba348455880f4ea539b1b0075c122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elfRunAttack_27
+      rect:
+        serializedVersion: 2
+        x: 8055
+        y: 1320
+        width: 842
+        height: 1054
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c970ca575e9b3e14b9d2a9ff3df9b1cf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elfRunAttack_28
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 16
+        width: 851
+        height: 1047
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df8f818d5ae084d4b986d65cd2f124e6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elfRunAttack_29
+      rect:
+        serializedVersion: 2
+        x: 1497
+        y: 20
+        width: 853
+        height: 1040
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 382daa7544e16ed48b1ced4ee3e829ac
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elfRunAttack_30
+      rect:
+        serializedVersion: 2
+        x: 2807
+        y: 29
+        width: 861
+        height: 1030
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85eaf8d260efaa84a895cc9a697df166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elfRunAttack_31
+      rect:
+        serializedVersion: 2
+        x: 4120
+        y: 25
+        width: 865
+        height: 1030
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03df9cff57ac1ba4bb14ca3b9d72af51
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: elfRunAttack_32
+      rect:
+        serializedVersion: 2
+        x: 5430
+        y: 25
+        width: 872
+        height: 1030
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 396a7623ebc6e2b4abb848ecfe8131b5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 17f7470583066a04fafd9fedc63cbbcf
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
